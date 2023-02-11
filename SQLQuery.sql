@@ -1,7 +1,6 @@
 /* 
 Covid-19 Data Exploration
 Skills used: Joins, CTE's, Temp Tables, Window Functions, Creating Views, Converting Data Types
-
 */
 
 -- SELECT covid_death table
